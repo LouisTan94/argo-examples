@@ -11,4 +11,4 @@ configmap:
 
 image:
   name: devopsjourney1/mywebapp
-  tag: v1
+  tag: latest
