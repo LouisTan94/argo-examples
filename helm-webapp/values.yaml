@@ -1,4 +1,4 @@
-replicas: 10
+replicas: 8
 
 appName: myhelmapp
 
